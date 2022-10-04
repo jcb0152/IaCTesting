@@ -1,4 +1,4 @@
-me: Codacy Analysis CLI
+name: Codacy Analysis CLI
 
 on: ["push"]
 
