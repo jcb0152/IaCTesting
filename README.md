@@ -8,6 +8,7 @@ Mehedi Hassan (Lead) , Akond Rahman
 
 ### Details 
 
+Making a minor change (COMP 5710)
 > Coming soon 
 
 > First step, detect testing anti-patterns 
